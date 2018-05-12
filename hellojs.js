@@ -4,3 +4,5 @@ var fNum2 = 1.1;
 var fSum = iNum1 + fNum2
 console.log(fSum);
 console.log(0xff00ff);
+
+// 注释
